@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>304775379498-ka5h3568je89v722v0d0pidho2dv1c7i.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.304775379498-ka5h3568je89v722v0d0pidho2dv1c7i</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDMsDc6wVIveh-2beAU0-Hz_roQZZx7fgI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>304775379498</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.rushd</string>
+	<key>PROJECT_ID</key>
+	<string>rushd-accadmy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rushd-accadmy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:304775379498:ios:8cbf755dff2f46656fe153</string>
+</dict>
+</plist>

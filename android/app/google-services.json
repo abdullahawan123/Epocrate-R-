@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304775379498",
+    "project_id": "rushd-accadmy",
+    "storage_bucket": "rushd-accadmy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304775379498:android:173d2ad4bd70e0036fe153",
+        "android_client_info": {
+          "package_name": "com.example.rushd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304775379498-craood9funrsdeorf35u48m81kag0ljt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD87QRdBqzDyGojzZ0I9oHX6Wyng4a5MrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304775379498-craood9funrsdeorf35u48m81kag0ljt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
